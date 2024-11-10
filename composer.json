@@ -1,0 +1,13 @@
+{
+    "name": "rustam/parserkomod43.ru",
+    "autoload": {
+        "psr-4": {
+            "Rustam\\Parserkomod43Ru\\": "src/",
+            "scrapper\\": "src/scrapper"
+        }
+    },
+    "require": {
+        "imangazaliev/didom": "^2.0",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
